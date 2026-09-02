@@ -1,0 +1,181 @@
+/* Common */
+"common.back" = "Back";
+"common.next" = "Next";
+"common.save" = "Save";
+"common.cancel" = "Cancel";
+"common.delete" = "Delete";
+"common.edit" = "Edit";
+"common.done" = "Done";
+"common.close" = "Close";
+"common.submit" = "Submit";
+"common.skip" = "Skip";
+"common.email" = "Email";
+"common.email.placeholder" = "Enter your email";
+"common.password" = "Password";
+"common.password.placeholder" = "Enter your password";
+"common.firstName" = "First Name";
+"common.lastName" = "Last Name";
+"common.phone" = "Phone Number";
+"common.phone.placeholder" = "Enter your phone number";
+"common.sunday" = "Sunday";
+"common.monday" = "Monday";
+"common.tuesday" = "Tuesday";
+"common.wednesday" = "Wednesday";
+"common.thursday" = "Thursday";
+"common.friday" = "Friday";
+"common.saturday" = "Saturday";
+
+/* Welcome Screen */
+"welcome.title" = "Hamrah";
+"welcome.subtitle" = "Your daily carpool companion";
+"welcome.feature.1" = "Find drivers going your way";
+"welcome.feature.2" = "Share rides and save money";
+"welcome.feature.3" = "Safe and verified community";
+"welcome.login.button" = "Sign In";
+"welcome.signup.button" = "Create Account";
+
+/* Authentication */
+"auth.email.label" = "Email Address";
+"auth.password.label" = "Password";
+"auth.password.min" = "Password must be at least 8 characters";
+"auth.signin.title" = "Sign In";
+"auth.signin.button" = "Sign In";
+"auth.signup.title" = "Create Account";
+"auth.signup.button" = "Create Account";
+"auth.forgot.password" = "Forgot password?";
+"auth.signup.role.label" = "I want to";
+"auth.signup.role.passenger" = "Ride as Passenger";
+"auth.signup.role.driver" = "Drive Others";
+"auth.already.account" = "Already have an account?";
+"auth.create.account" = "Don't have an account?";
+
+/* Verification */
+"verification.title" = "Verify Your Phone";
+"verification.subtitle" = "Enter the 6-digit code sent to %@";
+"verification.button" = "Verify";
+"verification.resend.text" = "Didn't receive the code?";
+"verification.resend.button" = "Resend";
+
+/* Forgot Password */
+"forgotpassword.title" = "Reset Password";
+"forgotpassword.subtitle" = "Enter your email address and we'll send you a link to reset your password";
+"forgotpassword.send.button" = "Send Reset Link";
+"forgotpassword.success.title" = "Check Your Email";
+"forgotpassword.success.message" = "We've sent a password reset link to your email";
+
+/* Route */
+"route.search.title" = "Search Rides";
+"route.search.button" = "Search";
+"route.results.title" = "Available Rides";
+"route.results.empty" = "No rides found for your route";
+"route.home.address" = "Home Address";
+"route.home.placeholder" = "Enter your home address";
+"route.work.address" = "Work Address";
+"route.work.placeholder" = "Enter your workplace";
+"route.date.label" = "Date";
+"route.date.picker" = "Select date";
+"route.departure" = "Departure";
+"route.distance" = "%.1f km";
+"route.duration" = "%d minutes";
+"route.book.button" = "Book";
+"route.add.title" = "Add Daily Route";
+"route.departure.time" = "Departure Time";
+"route.departure.picker" = "Select departure time";
+"route.return.time" = "Return Time";
+"route.return.picker" = "Select return time";
+"route.weekdays" = "Days of Week";
+"route.capacity" = "Vehicle Capacity";
+"route.capacity.label" = "%d passengers";
+
+/* Booking */
+"booking.title" = "Book a Ride";
+"booking.confirm.title" = "Confirm Booking";
+"booking.confirm.button" = "Confirm";
+"booking.cancel.title" = "Cancel Ride";
+"booking.cancel.button" = "Cancel Ride";
+"booking.details" = "Booking Details";
+"booking.status" = "Status";
+"booking.passengers" = "Passengers";
+
+/* Trip */
+"trip.completed" = "Trip Completed!";
+"trip.summary.title" = "Trip Summary";
+"trip.cost.per.passenger" = "Cost per Passenger";
+"trip.passengers" = "Number of Passengers";
+"trip.total.cost" = "Total Cost";
+"trip.rate.driver" = "Rate Your Driver";
+"trip.write.review" = "Write a Review";
+
+/* Driver */
+"driver.dashboard.title" = "Driver Dashboard";
+"driver.earnings.today" = "Today's Earnings";
+"driver.upcoming.rides" = "Upcoming Rides";
+"driver.add.route" = "Add Daily Route";
+"driver.no.bookings" = "No upcoming bookings";
+
+/* Passenger */
+"passenger.dashboard.title" = "My Rides";
+"passenger.no.bookings" = "No rides booked";
+
+/* Vehicle */
+"vehicle.registration.title" = "Register Vehicle";
+"vehicle.make" = "Make";
+"vehicle.make.placeholder" = "e.g., Toyota";
+"vehicle.model" = "Model";
+"vehicle.model.placeholder" = "e.g., Prius";
+"vehicle.year" = "Year";
+"vehicle.year.placeholder" = "e.g., 2023";
+"vehicle.license.plate" = "License Plate";
+"vehicle.license.placeholder" = "Enter license plate";
+"vehicle.vin" = "VIN";
+"vehicle.vin.placeholder" = "Enter VIN number";
+"vehicle.color" = "Color";
+"vehicle.color.placeholder" = "e.g., Silver";
+"vehicle.capacity" = "Passenger Capacity";
+"vehicle.capacity.passengers" = "%d passengers";
+
+/* Profile */
+"profile.rating" = "Rating";
+"profile.change.photo" = "Change Photo";
+"profile.settings" = "Settings";
+"profile.trips" = "Total Trips";
+"profile.member.since" = "Member Since";
+
+/* Settings */
+"settings.title" = "Settings";
+"settings.language.title" = "Language";
+"settings.language.current" = "Current Language";
+"settings.language.choose" = "Choose Language";
+"settings.notifications.title" = "Notifications";
+"settings.notifications.enable" = "Enable Notifications";
+"settings.appearance.title" = "Appearance";
+"settings.appearance.dark" = "Dark Mode";
+"settings.about.title" = "About";
+"settings.app.version" = "App Version";
+"settings.app.build" = "Build Number";
+
+/* Notifications */
+"notifications.title" = "Notifications";
+"notifications.empty" = "No notifications yet";
+"notifications.driver.arrived" = "Driver Arrived";
+"notifications.booking.confirmed" = "Booking Confirmed";
+"notifications.trip.completed" = "Trip Completed";
+
+/* Chat */
+"message.placeholder" = "Type a message...";
+"message.title" = "Messages";
+
+/* Live Tracking */
+"tracking.title" = "Live Tracking";
+"tracking.eta" = "Estimated Arrival";
+"tracking.message.button" = "Message Driver";
+"tracking.call.button" = "Call Driver";
+
+/* Errors */
+"error.network" = "Network error. Please check your connection.";
+"error.invalid.email" = "Please enter a valid email address.";
+"error.invalid.password" = "Password must be at least 8 characters.";
+"error.user.not.found" = "User not found. Please check your credentials.";
+"error.user.exists" = "This email is already registered.";
+"error.verification.failed" = "Verification failed. Please try again.";
+"error.unknown" = "An unexpected error occurred. Please try again.";

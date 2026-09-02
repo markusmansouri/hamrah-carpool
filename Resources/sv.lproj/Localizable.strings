@@ -1,0 +1,181 @@
+/* Gemensamt */
+"common.back" = "Tillbaka";
+"common.next" = "Nästa";
+"common.save" = "Spara";
+"common.cancel" = "Avbryt";
+"common.delete" = "Ta bort";
+"common.edit" = "Redigera";
+"common.done" = "Klart";
+"common.close" = "Stäng";
+"common.submit" = "Skicka";
+"common.skip" = "Hoppa över";
+"common.email" = "E-post";
+"common.email.placeholder" = "Ange din e-postadress";
+"common.password" = "Lösenord";
+"common.password.placeholder" = "Ange ditt lösenord";
+"common.firstName" = "Förnamn";
+"common.lastName" = "Efternamn";
+"common.phone" = "Telefonnummer";
+"common.phone.placeholder" = "Ange ditt telefonnummer";
+"common.sunday" = "Söndag";
+"common.monday" = "Måndag";
+"common.tuesday" = "Tisdag";
+"common.wednesday" = "Onsdag";
+"common.thursday" = "Torsdag";
+"common.friday" = "Fredag";
+"common.saturday" = "Lördag";
+
+/* Välskärm */
+"welcome.title" = "Hamrah";
+"welcome.subtitle" = "Din dagliga carpool-följeslagare";
+"welcome.feature.1" = "Hitta förare som åker din väg";
+"welcome.feature.2" = "Dela resor och spara pengar";
+"welcome.feature.3" = "Säker och verifierad gemenskap";
+"welcome.login.button" = "Logga in";
+"welcome.signup.button" = "Skapa konto";
+
+/* Autentisering */
+"auth.email.label" = "E-postadress";
+"auth.password.label" = "Lösenord";
+"auth.password.min" = "Lösenordet måste vara minst 8 tecken";
+"auth.signin.title" = "Logga in";
+"auth.signin.button" = "Logga in";
+"auth.signup.title" = "Skapa konto";
+"auth.signup.button" = "Skapa konto";
+"auth.forgot.password" = "Glömt lösenord?";
+"auth.signup.role.label" = "Jag vill";
+"auth.signup.role.passenger" = "Åka som passagerare";
+"auth.signup.role.driver" = "Köra andra";
+"auth.already.account" = "Har du redan ett konto?";
+"auth.create.account" = "Har du inget konto?";
+
+/* Verifiering */
+"verification.title" = "Verifiera din telefon";
+"verification.subtitle" = "Ange den 6-siffriga kod som skickades till %@";
+"verification.button" = "Verifiera";
+"verification.resend.text" = "Fick du inte koden?";
+"verification.resend.button" = "Skicka igen";
+
+/* Glömt lösenord */
+"forgotpassword.title" = "Återställ lösenord";
+"forgotpassword.subtitle" = "Ange din e-postadress och vi skickar dig en länk för att återställa ditt lösenord";
+"forgotpassword.send.button" = "Skicka återställningslänk";
+"forgotpassword.success.title" = "Kontrollera din e-post";
+"forgotpassword.success.message" = "Vi har skickat en länk för lösenordsåterställning till din e-post";
+
+/* Rutt */
+"route.search.title" = "Sök efter resor";
+"route.search.button" = "Sök";
+"route.results.title" = "Tillgängliga resor";
+"route.results.empty" = "Inga resor hittades för din rutt";
+"route.home.address" = "Hemadress";
+"route.home.placeholder" = "Ange din hemadress";
+"route.work.address" = "Arbetsstället";
+"route.work.placeholder" = "Ange ditt arbetsställe";
+"route.date.label" = "Datum";
+"route.date.picker" = "Välj datum";
+"route.departure" = "Avgång";
+"route.distance" = "%.1f km";
+"route.duration" = "%d minuter";
+"route.book.button" = "Boka";
+"route.add.title" = "Lägg till daglig rutt";
+"route.departure.time" = "Avgångstid";
+"route.departure.picker" = "Välj avgångstid";
+"route.return.time" = "Återkomsttid";
+"route.return.picker" = "Välj återkomsttid";
+"route.weekdays" = "Veckodagar";
+"route.capacity" = "Fordonskapacitet";
+"route.capacity.label" = "%d passagerare";
+
+/* Bokning */
+"booking.title" = "Boka en resa";
+"booking.confirm.title" = "Bekräfta bokning";
+"booking.confirm.button" = "Bekräfta";
+"booking.cancel.title" = "Avbryt resa";
+"booking.cancel.button" = "Avbryt resa";
+"booking.details" = "Bokningsdetaljer";
+"booking.status" = "Status";
+"booking.passengers" = "Passagerare";
+
+/* Resa */
+"trip.completed" = "Resan är slutförd!";
+"trip.summary.title" = "Resesammanfattning";
+"trip.cost.per.passenger" = "Kostnad per passagerare";
+"trip.passengers" = "Antal passagerare";
+"trip.total.cost" = "Totalkostnad";
+"trip.rate.driver" = "Betygsätt din förare";
+"trip.write.review" = "Skriv en recension";
+
+/* Förare */
+"driver.dashboard.title" = "Förarens instrumentpanel";
+"driver.earnings.today" = "Dagens inkomster";
+"driver.upcoming.rides" = "Kommande resor";
+"driver.add.route" = "Lägg till daglig rutt";
+"driver.no.bookings" = "Inga kommande bokningar";
+
+/* Passagerare */
+"passenger.dashboard.title" = "Mina resor";
+"passenger.no.bookings" = "Inga bokade resor";
+
+/* Fordon */
+"vehicle.registration.title" = "Registrera fordon";
+"vehicle.make" = "Märke";
+"vehicle.make.placeholder" = "t.ex. Toyota";
+"vehicle.model" = "Modell";
+"vehicle.model.placeholder" = "t.ex. Prius";
+"vehicle.year" = "År";
+"vehicle.year.placeholder" = "t.ex. 2023";
+"vehicle.license.plate" = "Registreringsskylt";
+"vehicle.license.placeholder" = "Ange registreringsskylt";
+"vehicle.vin" = "VIN";
+"vehicle.vin.placeholder" = "Ange VIN-nummer";
+"vehicle.color" = "Färg";
+"vehicle.color.placeholder" = "t.ex. Silver";
+"vehicle.capacity" = "Passagerarkapacitet";
+"vehicle.capacity.passengers" = "%d passagerare";
+
+/* Profil */
+"profile.rating" = "Betyg";
+"profile.change.photo" = "Ändra foto";
+"profile.settings" = "Inställningar";
+"profile.trips" = "Totala resor";
+"profile.member.since" = "Medlem sedan";
+
+/* Inställningar */
+"settings.title" = "Inställningar";
+"settings.language.title" = "Språk";
+"settings.language.current" = "Aktuellt språk";
+"settings.language.choose" = "Välj språk";
+"settings.notifications.title" = "Aviseringar";
+"settings.notifications.enable" = "Aktivera aviseringar";
+"settings.appearance.title" = "Utseende";
+"settings.appearance.dark" = "Mörkt läge";
+"settings.about.title" = "Om";
+"settings.app.version" = "Appversion";
+"settings.app.build" = "Byggversion";
+
+/* Aviseringar */
+"notifications.title" = "Aviseringar";
+"notifications.empty" = "Inga aviseringar än";
+"notifications.driver.arrived" = "Förare angiven";
+"notifications.booking.confirmed" = "Bokning bekräftad";
+"notifications.trip.completed" = "Resan är slutförd";
+
+/* Chatt */
+"message.placeholder" = "Skriv ett meddelande...";
+"message.title" = "Meddelanden";
+
+/* Live spårning */
+"tracking.title" = "Live spårning";
+"tracking.eta" = "Beräknad ankomst";
+"tracking.message.button" = "Meddelande till förare";
+"tracking.call.button" = "Ring förare";
+
+/* Fel */
+"error.network" = "Nätverksfel. Kontrollera din anslutning.";
+"error.invalid.email" = "Ange en giltig e-postadress.";
+"error.invalid.password" = "Lösenordet måste vara minst 8 tecken.";
+"error.user.not.found" = "Användare hittades inte. Kontrollera dina uppgifter.";
+"error.user.exists" = "Den här e-postadressen är redan registrerad.";
+"error.verification.failed" = "Verifieringen misslyckades. Försök igen.";
+"error.unknown" = "Ett oväntat fel inträffade. Försök igen.";
