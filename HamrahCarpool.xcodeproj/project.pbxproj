@@ -1,0 +1,2 @@
+// Placeholder - Xcode project will be generated with proper structure
+// This repository uses Swift Package Manager for modular architecture
